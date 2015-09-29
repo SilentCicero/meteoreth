@@ -37,6 +37,14 @@ Most MeteorJS applications will have a settings.json file, meteoreth will look f
       "public": {}
     }
   
+## Applicaitons Using meteoreth
+
+- BoardRoom - <a href="https://github.com/web3-gov/meteor-dapp-boardroom">Github</a> . <a href="http://boardroom.to">Website</a>
+
+- WeiFund - <a href="https://github.com/weifund/weifund">Github</a> . <a href="http://weifund.io">Website</a>
+
+- dApp Boilerplate - <a href="https://github.com/SilentCicero/meteor-dapp-boilerplate">Github</a>
+  
 ## About
 The idea behind Meteoreth is simple, Meteor is a comprehensive javascript application framework for building full-stack or half-stack apps that can be made into decentralized apps (or dApps) for Ethereum. Meteoreth will allow a seemless, one-line command to run both the Ethereum geth client infrastructure with a Meteor application. This way, you can run a Meteor dApp in one line.
 
