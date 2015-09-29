@@ -11,7 +11,7 @@ A simple module for running meteor dApps with Ethereum on a local test network.
     $ meteoreth
   
 ## The Settings JSON
-Most MeteorJS applications will have a settings.json file, meteoreth will look for and leverages this settings.json file to run a local Ethereum node.
+Most MeteorJS applications will have a settings.json file, meteoreth will look for and leverages this settings.json file to run a local Ethereum node. This allows you to save your geth settings with your Meteor application.
 
     {
       "production": {
