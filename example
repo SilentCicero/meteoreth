@@ -1,5 +1,0 @@
-meteoreth
-meteoreth install
-meteoreth deploy ipfs
-meteoreth deploy geth
-meteoreth create myproject
