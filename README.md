@@ -38,6 +38,6 @@ Most MeteorJS applications will have a settings.json file, meteoreth will look f
     }
   
 ## About
-The idea behind Meteoreth is simple, Meteor is a comprehensive javascript application framework for building full-stack or half-stack apps that can be made into decentralized apps (or dApps) for Ethereum. Meteoreth will allow a seemless, one-line command to run both the Ethereum geth client infrastructure with a Meteor application. This way, you can run a Metoer dApp in one line.
+The idea behind Meteoreth is simple, Meteor is a comprehensive javascript application framework for building full-stack or half-stack apps that can be made into decentralized apps (or dApps) for Ethereum. Meteoreth will allow a seemless, one-line command to run both the Ethereum geth client infrastructure with a Meteor application. This way, you can run a Meteor dApp in one line.
 
 Meteoreth does not commit to a testing framework, and so unit testing can be handled with Meteor's Velocity visualization framework with either Mocha or Jasmine. Please see http://github.com/silentcicero/meteor-dapp-boilerplate for examples.
