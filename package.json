@@ -1,0 +1,37 @@
+{
+  "name": "meteoreth",
+  "version": "0.0.1",
+  "description": "A simple module for deploying and testing meteor dApps",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/SilentCicero/meteoreth"
+  },
+  "keywords": [
+    "meteor",
+    "dapp",
+    "ethereum"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilentCicero/meteoreth/issues"
+  },
+  "bin": {
+    "meteoreth": "main.js"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "fs": "0.0.2",
+    "meteor-build-client": "^0.1.6",
+    "path": "^0.11.14",
+    "read-json": "^0.1.0",
+    "shelljs": "^0.5.1",
+    "simple-spinner": "0.0.3",
+    "spawn-async": "0.0.1",
+    "underscore": "^1.8.3"
+  }
+}
